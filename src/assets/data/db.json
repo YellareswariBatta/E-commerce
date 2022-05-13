@@ -1,0 +1,39 @@
+{
+  "usercreds": [
+    {
+      "id": 1,
+      "email": "test@gmail.com",
+      "pass": "test@123"
+    },
+    {
+      "email": "robo",
+      "pass": "Robo@123",
+      "id": 2
+    },
+    {
+      "email": "Krishna",
+      "pass": "Krishna$1",
+      "id": 3
+    },
+    {
+      "email": "achala",
+      "pass": "Achala@123",
+      "id": 4
+    },
+    {
+      "email": "robo",
+      "pass": "Robo@123",
+      "id": 5
+    },
+    {
+      "email": "Test",
+      "pass": "Robo@123",
+      "id": 6
+    },
+    {
+      "email": "Test",
+      "pass": "Test@123",
+      "id": 7
+    }
+  ]
+}
